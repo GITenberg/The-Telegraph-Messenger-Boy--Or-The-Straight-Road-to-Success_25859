@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '2569'
     url: http://www.gutenberg.org/2009/agents/2569
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25859#The-Telegraph-Messenger-Boy--Or-The-Straight-Road-to-Success
 gutenberg_issued: '2008-06-20'
 gutenberg_type: Text
 identifiers:
