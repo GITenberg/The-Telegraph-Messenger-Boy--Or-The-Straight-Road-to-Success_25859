@@ -1,0 +1,39 @@
+_repo: The-Telegraph-Messenger-Boy--Or-The-Straight-Road-to-Success_25859
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, E. S. (Edward Sylvester)
+    - Ellis, Edward S. (Edward Sylvester)
+    - Jayne, R. H.
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_issued: '2008-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Poverty -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Mothers and sons -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Telegraph -- Employees -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+title: The Telegraph Messenger Boy; Or, The Straight Road to Success
+url: http://www.gutenberg.org/ebooks/25859
